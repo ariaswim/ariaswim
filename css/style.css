@@ -1221,3 +1221,60 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+/* icon-contact-orange */
+
+.contact-card-orange .contact-icon i {
+  color: #FF6F00;
+  text-shadow: 0 5px 5px #e65100;
+}
+
+.contact-card-orange .contact-title {
+  font-size: 1.2em;
+  color: #FF6F00;
+  text-shadow: 0 0 5px #e65100;
+}
+
+.contact-card-orange .contact-text {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #EEEEEE;
+}
+
+/* icon-contact-green */
+
+.contact-card-green .contact-icon i {
+  color: #33691E;
+  text-shadow: 0 10px 5px #1b5e20;
+}
+
+.contact-card-green .contact-title {
+  font-size: 1.25em;
+  color: #33691E;
+  text-shadow: 0 0 5px #1B5E20;
+}
+
+.contact-card-green .contact-text {
+  font-size: 1.75em;
+  font-weight: bold;
+  color: #EEEEEE;
+}
+
+/* icon-contact-purple */
+
+.contact-card-purple .contact-icon i {
+  color: #4A148C;
+  text-shadow: 0px 5px 3px #311b92;
+}
+
+.contact-card-purple .contact-title {
+  font-size: 1.2em;
+  color: #4A148C;
+  text-shadow: 0 0 5px #311B92;
+}
+
+.contact-card-purple .contact-text {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #EEEEEE;
+}
